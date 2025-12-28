@@ -1,6 +1,6 @@
 {
 	"name": "release-please-testing",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Testing trusted publishing with release-please",
 	"repository": {
 		"type": "git",
